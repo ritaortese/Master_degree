@@ -1,1 +1,1 @@
-
+I presented and reviewed the paper “Iterative Non-linear Dimensionality Reduction by Manifold Sculpting”, explaining the Manifold Sculpting method for unsupervised non-linear dimensionality reduction. I described the algorithm, its heuristics, main parameters, and compared it conceptually with other techniques such as Maximum Likelihood (ML) and UMAP.
