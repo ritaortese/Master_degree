@@ -1,0 +1,3 @@
+[submodule "PML/fake-image-detection"]
+    path = PML/fake-image-detection
+    url = https://github.com/afm719/DetectorImageAI.git
