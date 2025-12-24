@@ -14,7 +14,7 @@ The system is evaluated using synthetic users with controlled preference pattern
 
 **Models & Techniques Used:** Hybrid recommender systems; Collaborative Filtering with ALS; implicit feedback modeling; sparse user–item matrices; TF-IDF vectorization; cosine similarity; Jaccard similarity; feature-weighted similarity aggregation; cold-start detection; negative preference penalization; interactive recommendation evaluation.
 
-**2. data Visualization:**
+**2. Data Visualization:**
 
 **Project: Analysis of Drug Use and Fentanyl Enforcement**
 This project focuses on the construction of a full data‑visualization pipeline to explore illegal drug‑use trends and fentanyl‑trafficking patterns in the United States. The work begins with the preprocessing and integration of two heterogeneous datasets: the 2021–2022 National Surveys on Drug Use and Health (NSDUH) and the HIDTA fentanyl‑seizure records (2017–2023). The data are cleaned, normalized, and structured to enable comparative analysis across age groups, substances, states, and regions.
