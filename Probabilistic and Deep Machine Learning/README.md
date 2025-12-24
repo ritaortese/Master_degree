@@ -1,4 +1,4 @@
-#PML
+# PML
 # Fake Image Detection with Uncertainty Estimation
 
 In this project, we explored two approaches for detecting fake images (fake vs. real) using Bayesian Convolutional Neural Networks (BCNNs), with a particular focus on estimating the model's uncertainty. The ability of a model to quantify its confidence in a prediction is crucial, especially in sensitive tasks like detecting deepfakes or manipulated content.
