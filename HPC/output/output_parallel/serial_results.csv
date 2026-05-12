@@ -1,0 +1,3 @@
+test_type,nodes,ntasks,tasks_per_node,cpus_per_task,Sx,Sy,iterations,total_time,comp_time,comm_time,waitall_time
+serial,1,1,1,1,4096,4096,500,11.427085,11.426881,0.000030,0.000017
+serial,1,1,1,1,4096,4096,500,10.995763,10.995554,0.000032,0.000019
