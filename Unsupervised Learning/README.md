@@ -1,4 +1,5 @@
-**Project: Iterative Non-linear Dimensionality Reduction by Manifold Sculpting**
+# Iterative Non-linear Dimensionality Reduction by Manifold Sculpting
+
 This project presents and reviews the paper “Iterative Non-linear Dimensionality Reduction by Manifold Sculpting” by Mike Gashler et al., providing an in‑depth explanation of the Manifold Sculpting algorithm and its role in unsupervised non-linear dimensionality reduction. The work examines how the method balances two opposing heuristics—scaling information out of non‑preserved dimensions and restoring local geometric relationships—to progressively refine the data representation. The algorithm is analyzed step by step, including neighbor selection, computation of distances and angles, PCA-based preprocessing, iterative transformation, and final projection. Particular attention is given to the heuristic error function, the hill‑climbing optimization strategy, and the influence of parameters such as the number of neighbors 𝑘, the scaling factor 𝜎, the learning rate, and the stopping criterion. The project also includes a conceptual comparison between Manifold Sculpting and other dimensionality‑reduction techniques, such as Maximum Likelihood–based methods and UMAP, highlighting differences in how global and local structures are preserved.
 
 **Software & Tools:**
