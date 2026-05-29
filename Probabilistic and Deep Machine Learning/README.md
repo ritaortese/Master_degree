@@ -1,4 +1,4 @@
-# PML
+# 1. PML
 # Fake Image Detection with Uncertainty Estimation
 
 In this project, we explored two approaches for detecting fake images (fake vs. real) using Bayesian Convolutional Neural Networks (BCNNs), with a particular focus on estimating the model's uncertainty. The ability of a model to quantify its confidence in a prediction is crucial, especially in sensitive tasks like detecting deepfakes or manipulated content.
@@ -47,7 +47,7 @@ Both notebooks demonstrate how Bayesian techniques can be incorporated into CNNs
 Copyright © 2025 | Arahi Fernandez Monagas & Rita Ortese.
 Project for the Probabilistic Machine Learning course (2024/2025), University of Trieste.
 
-# Deep Learning 
+# 2. Deep Learning 
 
 # Project: Physics-Informed Deep Learning for Gene Expression Modeling
 
@@ -55,5 +55,7 @@ This project explores the use of Physics-Informed Neural Networks (PINNs) to mod
 
 The framework addresses both forward modeling, where system parameters are known, and inverse modeling, where kinetic parameters are learned directly from data. The approach demonstrates how physics-based regularization improves generalization and parameter identifiability compared to purely data-driven models.
 
-## Software & Tools: Python, PyTorch, NumPy, Matplotlib
-## Models & Techniques Used: Physics-Informed Neural Networks; deep learning for dynamical systems; forward and inverse PINNs; automatic differentiation; ODE residual minimization; parameter estimation; sparse and noisy data learning.
+## Software & Tools: 
+Python, PyTorch, NumPy, Matplotlib
+## Models & Techniques Used: 
+Physics-Informed Neural Networks; deep learning for dynamical systems; forward and inverse PINNs; automatic differentiation; ODE residual minimization; parameter estimation; sparse and noisy data learning.
