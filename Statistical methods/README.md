@@ -1,4 +1,4 @@
-**Project Description – Health Care Demand in Australia**
+# Health Care Demand in Australia
 
 This project analyzes the factors that influence the number of doctor visits in Australia using a health care dataset. The main variable of interest is doctorco, which represents the number of consultations with a doctor or specialist in the previous two weeks.
 
