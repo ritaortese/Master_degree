@@ -49,7 +49,7 @@ Project for the Probabilistic Machine Learning course (2024/2025), University of
 
 # 2. Deep Learning 
 
-# Project: Physics-Informed Deep Learning for Gene Expression Modeling
+# Physics-Informed Deep Learning for Gene Expression Modeling
 
 This project explores the use of Physics-Informed Neural Networks (PINNs) to model gene expression dynamics by coupling neural networks with biologically inspired differential equations describing mRNA and protein interactions. The PINN is trained using sparse and noisy time-series observations while enforcing the underlying physical constraints via differential equation residuals and initial conditions.
 
